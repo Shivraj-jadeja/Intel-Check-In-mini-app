@@ -5,6 +5,10 @@ The app tracks attendance in real time, visualizes team participation, and provi
 
 ---
 
+![Intel Chek-In App](img/intel-chekin-home.png)
+
+---
+
 ## ✨ Overview
 
 This application models a real-world event check-in system where attendees are assigned to teams and tracked toward a shared attendance goal.
